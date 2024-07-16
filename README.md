@@ -11,7 +11,6 @@ This project focuses on developing a surveillance system using the YOLO (You Onl
 - [Dataset](#dataset)
 - [Model Training](#model-training)
 - [Results](#results)
-- [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
@@ -69,25 +68,6 @@ To train the model on your own dataset, follow these steps:
 ## Results
 
 The YOLOv8 model has shown significant improvements in detecting motorbike riders without helmets with high accuracy and low false positive rates. The detailed results and performance metrics can be found in the `results` directory.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-branch
-    ```
-5. Create a pull request.
 
 ## Acknowledgments
 
